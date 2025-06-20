@@ -4,7 +4,7 @@
  * Inspired by Daniel Shiffman's
  * Coding in the Cabana 2: Collatz Conjecture
  * @author <https://github.com/ivan-aveunelly>
- * @demo <https://github.com/ivan-aveunelly/CreativeCodingProjects-/collatzSunrise>
+ * @demo <https://github.com/ivan-aveunelly/CreativeCodingProjects/collatzSunrise>
  */
 
 let i = 0;
